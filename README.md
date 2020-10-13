@@ -7,3 +7,8 @@ WHO estimated that more than 12million people die from heart diseases each year.
 I am required to use logistic regression to predict whether a patient has 10years risk of future coronary heart disease or not. I will make use of binary logistic regression in which target variable has only two possible outcomes such as heart disease or no heart disease. Hospitals and Doctors may use this model to predict which patient is at risk and preventive measures to be taken
 ## Data Source
 The dataset is publically available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).
+## Model: Logistic Regression
+Classification techniques are an essential part of machine learning and data mining applications. Approximately 70% of problems in Data Science are classification problems. There are lots of classification problems that are available, but the logistics regression is common and is a useful regression method for solving the binary classification problem
+Looking at the first row of my clean data
+
+
