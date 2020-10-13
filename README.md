@@ -27,4 +27,23 @@ Its build on histogram and scatter plot
 ![4](https://user-images.githubusercontent.com/63025220/95898329-dfedfb80-0d5c-11eb-8e3a-185e13bc874e.PNG)
   ![Capture5](https://user-images.githubusercontent.com/63025220/95898368-ef6d4480-0d5c-11eb-9742-00ae5996cc92.PNG)
 
+## Logistic Regression
+Logistic Regression is one of the most simple and commonly used Machine Learning algorithms for two-class classification.
+Before applying this model on my data , I will have to split my data into training and test data
+
+### Data splitting to training and testing model
+sklearn.model_selection is the library use to split our data into training and testing dataset.
+
+### 80% will be traing data and 20% testing data
+
+## Model Development and Prediction
+First, import the Logistic Regression module and create a Logistic Regression classifier object using LogisticRegression() function.
+
+Then, fit your model on the train set using fit() and perform prediction on the test set using predict().
+
+from sklearn.linear_model import LogisticRegression
+logreg = LogisticRegression()
+logreg.fit(X_train,y_train)
+y_pred=logreg.predict(X_test)
+
 
