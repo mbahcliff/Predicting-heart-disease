@@ -10,7 +10,13 @@ The dataset is publically available on the Kaggle website, and it is from an ong
 ## Model: Logistic Regression
 Classification techniques are an essential part of machine learning and data mining applications. Approximately 70% of problems in Data Science are classification problems. There are lots of classification problems that are available, but the logistics regression is common and is a useful regression method for solving the binary classification problem
 
-## Looking at the first five row of my clean data framinhgahm.head()
+## Looking at the first five rows of my clean data framinhgahm.head()
 
 ![Capturefr](https://user-images.githubusercontent.com/63025220/95895835-4c66fb80-0d59-11eb-829b-d89ef838cba9.PNG)
 
+## Data visualization
+This involves undrestanding my dataset by placing it in a visual context so that patterns, trends and  correlations that might not otherwise be detected can be exposed
+
+### Pair plot
+![cap1](https://user-images.githubusercontent.com/63025220/95897584-c9937000-0d5b-11eb-996b-e62304d84962.PNG)
+![Capture2](https://user-images.githubusercontent.com/63025220/95897639-ddd76d00-0d5b-11eb-9b49-7326da3cb93a.PNG)
