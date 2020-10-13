@@ -42,8 +42,11 @@ First, import the Logistic Regression module and create a Logistic Regression cl
 Then, fit your model on the train set using fit() and perform prediction on the test set using predict().
 
 from sklearn.linear_model import LogisticRegression
+
 logreg = LogisticRegression()
+
 logreg.fit(X_train,y_train)
+
 y_pred=logreg.predict(X_test)
 
 
