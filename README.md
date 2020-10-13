@@ -49,4 +49,34 @@ logreg.fit(X_train,y_train)
 
 y_pred=logreg.predict(X_test)
 
+## Model Evaluation using Confusion Matrix
+A confusion matrix is a table that is used to evaluate the performance of a classification model
+
+from sklearn import metrics
+
+cnf_matrix = metrics.confusion_matrix(y_test, y_pred)
+
+cnf_matrix
+
+![Capture6](https://user-images.githubusercontent.com/63025220/95900242-9a7efd80-0d5f-11eb-92d6-7d5f5c0617df.PNG)
+
+The dimension of this matrix is 2*2 because this model is binary classification.
+
+## Visualizing Confusion Matrix using Heatmap
+
+Let's visualize the results of the model in the form of a confusion matrix using matplotlib and seaborn.
+
+![Capture7](https://user-images.githubusercontent.com/63025220/95901001-afa85c00-0d60-11eb-8181-c3e69365270d.PNG)
+
+print("Accuracy:",metrics.accuracy_score(y_test, y_pred))
+
+print("Precision:",metrics.precision_score(y_test, y_pred))
+
+print("Recall:",metrics.recall_score(y_test, y_pred))
+
+![Capture8](https://user-images.githubusercontent.com/63025220/95901217-00b85000-0d61-11eb-8f51-9897fa54ca83.PNG)
+
+## My accuracy is 86%, considered as good accuracy.
+
+
 
