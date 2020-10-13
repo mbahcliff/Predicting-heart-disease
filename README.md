@@ -25,6 +25,6 @@ Its build on histogram and scatter plot
 ### Finding correlation
 
 ![4](https://user-images.githubusercontent.com/63025220/95898329-dfedfb80-0d5c-11eb-8e3a-185e13bc874e.PNG)
-![Capture5](https://user-images.githubusercontent.com/63025220/95898368-ef6d4480-0d5c-11eb-9742-00ae5996cc92.PNG)
+  ![Capture5](https://user-images.githubusercontent.com/63025220/95898368-ef6d4480-0d5c-11eb-9742-00ae5996cc92.PNG)
 
 
