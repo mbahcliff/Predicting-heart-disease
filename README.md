@@ -92,5 +92,5 @@ It is vulnerable to overfitting
 ## Later work
 I will be working with a dataset that requires me to use multinomial logistic regression in which the target variable has three or more nominal categories such as predicting the type of Wine.
 ## Conclusion
-
+Model has adequately addressed the problem statement.It has also helped usunderstand how logistic regtression can be used to predict heart diseases
 
