@@ -78,5 +78,19 @@ print("Recall:",metrics.recall_score(y_test, y_pred))
 
 ## My accuracy is 86%, considered as good accuracy.
 
+## ROC Curve
+Receiver Operating Characteristic(ROC) curve is a plot of the true positive rate against the false positive rate
+
+![Capture9](https://user-images.githubusercontent.com/63025220/95901724-c1d6ca00-0d61-11eb-8bc1-0d181d693715.PNG)
+
+AUC score for the case is 0.72. AUC score 1 represents perfect classifier, and 0.5 represents a worthless classifier.
+
+## Limitation
+
+It is vulnerable to overfitting
+
+## Later work
+I will be working with a dataset that requires me to use multinomial logistic regression in which the target variable has three or more nominal categories such as predicting the type of Wine.
+## Conclusion
 
 
