@@ -18,5 +18,13 @@ Classification techniques are an essential part of machine learning and data min
 This involves undrestanding my dataset by placing it in a visual context so that patterns, trends and  correlations that might not otherwise be detected can be exposed
 
 ### Pair plot
+Its build on histogram and scatter plot
 ![cap1](https://user-images.githubusercontent.com/63025220/95897584-c9937000-0d5b-11eb-996b-e62304d84962.PNG)
 ![Capture2](https://user-images.githubusercontent.com/63025220/95897639-ddd76d00-0d5b-11eb-9b49-7326da3cb93a.PNG)
+
+### Finding correlation
+
+![4](https://user-images.githubusercontent.com/63025220/95898329-dfedfb80-0d5c-11eb-8e3a-185e13bc874e.PNG)
+![Capture5](https://user-images.githubusercontent.com/63025220/95898368-ef6d4480-0d5c-11eb-9742-00ae5996cc92.PNG)
+
+
