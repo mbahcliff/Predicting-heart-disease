@@ -1,4 +1,5 @@
 # Predicting-heart-disease
+# Link to my presentation: https://www.youtube.com/watch?v=X8atLJJH9F8&feature=youtu.be
 ## Problem statement
 World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression. Using logistic regression I will be able to determine whether a person run the risk of having a heart disease. The classification goal is to predict whether the patient has 10years risk of future coronary heart disease.
 ## Motivation
