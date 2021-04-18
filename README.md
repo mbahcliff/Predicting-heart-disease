@@ -73,7 +73,6 @@ print("Accuracy:",metrics.accuracy_score(y_test, y_pred))
 
 print("Precision:",metrics.precision_score(y_test, y_pred))
 
-print("Recall:",metrics.recall_score(y_test, y_pred))
 
 ![Capture8](https://user-images.githubusercontent.com/63025220/95901217-00b85000-0d61-11eb-8f51-9897fa54ca83.PNG)
 
